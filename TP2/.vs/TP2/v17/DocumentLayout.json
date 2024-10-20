@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jawad\\source\\repos\\TP2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|c:\\users\\jawad\\source\\repos\\tp2\\tp2\\wwwroot\\images\\prod3.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|solutionrelative:tp2\\wwwroot\\images\\prod3.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|c:\\users\\jawad\\source\\repos\\tp2\\tp2\\wwwroot\\images\\prod2.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|solutionrelative:tp2\\wwwroot\\images\\prod2.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|c:\\users\\jawad\\source\\repos\\tp2\\tp2\\wwwroot\\images\\prod1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|solutionrelative:tp2\\wwwroot\\images\\prod1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|c:\\users\\jawad\\source\\repos\\tp2\\tp2\\wwwroot\\images\\3a8f4f7a-672b-48b1-b16b-bc9c3d37558d_casque.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|solutionrelative:tp2\\wwwroot\\images\\3a8f4f7a-672b-48b1-b16b-bc9c3d37558d_casque.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|c:\\users\\jawad\\source\\repos\\tp2\\tp2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|solutionrelative:tp2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|c:\\users\\jawad\\source\\repos\\tp2\\tp2\\models\\repositories\\sqlproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|solutionrelative:tp2\\models\\repositories\\sqlproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|c:\\users\\jawad\\source\\repos\\tp2\\tp2\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|solutionrelative:tp2\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|c:\\users\\jawad\\source\\repos\\tp2\\tp2\\models\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|solutionrelative:tp2\\models\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|c:\\users\\jawad\\source\\repos\\tp2\\tp2\\viewmodels\\createviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|solutionrelative:tp2\\viewmodels\\createviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|c:\\users\\jawad\\source\\repos\\tp2\\tp2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|solutionrelative:tp2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|c:\\users\\jawad\\source\\repos\\tp2\\tp2\\viewmodels\\editviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|solutionrelative:tp2\\viewmodels\\editviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|c:\\users\\jawad\\source\\repos\\tp2\\tp2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|solutionrelative:tp2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|c:\\users\\jawad\\source\\repos\\tp2\\tp2\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|solutionrelative:tp2\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|c:\\users\\jawad\\source\\repos\\tp2\\tp2\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|solutionrelative:tp2\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|c:\\users\\jawad\\source\\repos\\tp2\\tp2\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|solutionrelative:tp2\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|c:\\users\\jawad\\source\\repos\\tp2\\tp2\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|solutionrelative:tp2\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|c:\\users\\jawad\\source\\repos\\tp2\\tp2\\migrations\\20241002100011_addphotopathtoproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|solutionrelative:tp2\\migrations\\20241002100011_addphotopathtoproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|c:\\users\\jawad\\source\\repos\\tp2\\tp2\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|solutionrelative:tp2\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|c:\\users\\jawad\\source\\repos\\tp2\\tp2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|solutionrelative:tp2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|c:\\users\\jawad\\source\\repos\\tp2\\tp2\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|solutionrelative:tp2\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|c:\\users\\jawad\\source\\repos\\tp2\\tp2\\migrations\\20241002092553_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABEBAFC-2BB3-4EF1-AC62-CCB67882DEDA}|TP2\\TP2.csproj|solutionrelative:tp2\\migrations\\20241002092553_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "prod3.jpg - Bitmap [4314x2857, 24 bits, JPG]",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\wwwroot\\images\\prod3.jpg",
+              "RelativeDocumentMoniker": "TP2\\wwwroot\\images\\prod3.jpg",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\wwwroot\\images\\prod3.jpg - Bitmap [4314x2857, 24 bits, JPG]",
+              "RelativeToolTip": "TP2\\wwwroot\\images\\prod3.jpg - Bitmap [4314x2857, 24 bits, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-20T18:12:01.597Z",
+              "EditorCaption": " - Bitmap [4314x2857, 24 bits, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "prod2.jpg - Bitmap [3000x2000, 24 bits, JPG]",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\wwwroot\\images\\prod2.jpg",
+              "RelativeDocumentMoniker": "TP2\\wwwroot\\images\\prod2.jpg",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\wwwroot\\images\\prod2.jpg - Bitmap [3000x2000, 24 bits, JPG]",
+              "RelativeToolTip": "TP2\\wwwroot\\images\\prod2.jpg - Bitmap [3000x2000, 24 bits, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-20T18:12:00.188Z",
+              "EditorCaption": " - Bitmap [3000x2000, 24 bits, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "prod1.jpg - Bitmap [3000x2179, 24 bits, JPG]",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\wwwroot\\images\\prod1.jpg",
+              "RelativeDocumentMoniker": "TP2\\wwwroot\\images\\prod1.jpg",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\wwwroot\\images\\prod1.jpg - Bitmap [3000x2179, 24 bits, JPG]",
+              "RelativeToolTip": "TP2\\wwwroot\\images\\prod1.jpg - Bitmap [3000x2179, 24 bits, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-20T18:11:58.72Z",
+              "EditorCaption": " - Bitmap [3000x2179, 24 bits, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "3a8f4f7a-672b-48b1-b16b-bc9c3d37558d_casque.jpg - Bitmap [700x700, 24 bits, JPG]",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\wwwroot\\images\\3a8f4f7a-672b-48b1-b16b-bc9c3d37558d_casque.jpg",
+              "RelativeDocumentMoniker": "TP2\\wwwroot\\images\\3a8f4f7a-672b-48b1-b16b-bc9c3d37558d_casque.jpg",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\wwwroot\\images\\3a8f4f7a-672b-48b1-b16b-bc9c3d37558d_casque.jpg - Bitmap [700x700, 24 bits, JPG]",
+              "RelativeToolTip": "TP2\\wwwroot\\images\\3a8f4f7a-672b-48b1-b16b-bc9c3d37558d_casque.jpg - Bitmap [700x700, 24 bits, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-20T18:11:56.648Z",
+              "EditorCaption": " - Bitmap [700x700, 24 bits, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\Models\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "TP2\\Models\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\Models\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "TP2\\Models\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:19:29.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TP2\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TP2\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAtwHkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:28:19.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "TP2\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "TP2\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T10:23:27.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SqlProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\Models\\Repositories\\SqlProductRepository.cs",
+              "RelativeDocumentMoniker": "TP2\\Models\\Repositories\\SqlProductRepository.cs",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\Models\\Repositories\\SqlProductRepository.cs",
+              "RelativeToolTip": "TP2\\Models\\Repositories\\SqlProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:21:34.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\ViewModels\\CreateViewModel.cs",
+              "RelativeDocumentMoniker": "TP2\\ViewModels\\CreateViewModel.cs",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\ViewModels\\CreateViewModel.cs",
+              "RelativeToolTip": "TP2\\ViewModels\\CreateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:02:35.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\ViewModels\\EditViewModel.cs",
+              "RelativeDocumentMoniker": "TP2\\ViewModels\\EditViewModel.cs",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\ViewModels\\EditViewModel.cs",
+              "RelativeToolTip": "TP2\\ViewModels\\EditViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:15:26.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "TP2\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "TP2\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T10:13:05.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TP2\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "TP2\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T09:50:39.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "TP2\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\Models\\Product.cs",
+              "RelativeToolTip": "TP2\\Models\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:41:23.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "TP2\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "TP2\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T11:10:13.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TP2\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "TP2\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T10:20:55.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TP2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TP2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T09:51:17.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241002100011_AddPhotoPathToProducts.cs",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\Migrations\\20241002100011_AddPhotoPathToProducts.cs",
+              "RelativeDocumentMoniker": "TP2\\Migrations\\20241002100011_AddPhotoPathToProducts.cs",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\Migrations\\20241002100011_AddPhotoPathToProducts.cs",
+              "RelativeToolTip": "TP2\\Migrations\\20241002100011_AddPhotoPathToProducts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:00:11.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "TP2\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "TP2\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:03:35.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241002092553_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\Migrations\\20241002092553_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TP2\\Migrations\\20241002092553_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\Migrations\\20241002092553_InitialCreate.cs",
+              "RelativeToolTip": "TP2\\Migrations\\20241002092553_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:25:53.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\appsettings.json",
+              "RelativeDocumentMoniker": "TP2\\appsettings.json",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\appsettings.json",
+              "RelativeToolTip": "TP2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T09:17:56.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TP2\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP2\\TP2\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "TP2\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:43:11.795Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
