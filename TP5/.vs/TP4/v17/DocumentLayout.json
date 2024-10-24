@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jawad\\source\\repos\\TP4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|c:\\users\\jawad\\source\\repos\\tp4\\tp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|solutionrelative:tp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|c:\\users\\jawad\\source\\repos\\tp4\\tp4\\services\\genresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|solutionrelative:tp4\\services\\genresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|c:\\users\\jawad\\source\\repos\\tp4\\tp4\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|solutionrelative:tp4\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|c:\\users\\jawad\\source\\repos\\tp4\\tp4\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|solutionrelative:tp4\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|c:\\users\\jawad\\source\\repos\\tp4\\tp4\\dtos\\moviedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|solutionrelative:tp4\\dtos\\moviedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|c:\\users\\jawad\\source\\repos\\tp4\\tp4\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|solutionrelative:tp4\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|c:\\users\\jawad\\source\\repos\\tp4\\tp4\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|solutionrelative:tp4\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|c:\\users\\jawad\\source\\repos\\tp4\\tp4\\dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|solutionrelative:tp4\\dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|c:\\users\\jawad\\source\\repos\\tp4\\tp4\\services\\moviesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|solutionrelative:tp4\\services\\moviesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|c:\\users\\jawad\\source\\repos\\tp4\\tp4\\services\\imoviesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|solutionrelative:tp4\\services\\imoviesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|c:\\users\\jawad\\source\\repos\\tp4\\tp4\\services\\igenresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|solutionrelative:tp4\\services\\igenresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|c:\\users\\jawad\\source\\repos\\tp4\\tp4\\model\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|solutionrelative:tp4\\model\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|c:\\users\\jawad\\source\\repos\\tp4\\tp4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|solutionrelative:tp4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|c:\\users\\jawad\\source\\repos\\tp4\\tp4\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|solutionrelative:tp4\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|c:\\users\\jawad\\source\\repos\\tp4\\tp4\\model\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|solutionrelative:tp4\\model\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|c:\\users\\jawad\\source\\repos\\tp4\\tp4\\migrations\\20241022213232_dbcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179691B0-C404-481C-8E4D-E5CD9B940BFC}|TP4\\TP4.csproj|solutionrelative:tp4\\migrations\\20241022213232_dbcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 238,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "TP4\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "TP4\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwIIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:05:22.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\Helpers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "TP4\\Helpers\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\Helpers\\MappingProfile.cs",
+              "RelativeToolTip": "TP4\\Helpers\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAsAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:03:10.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\Program.cs",
+              "RelativeDocumentMoniker": "TP4\\Program.cs",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\Program.cs",
+              "RelativeToolTip": "TP4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:30:41.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenresService.cs",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\Services\\GenresService.cs",
+              "RelativeDocumentMoniker": "TP4\\Services\\GenresService.cs",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\Services\\GenresService.cs",
+              "RelativeToolTip": "TP4\\Services\\GenresService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:34:45.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\Dtos\\MovieDetailsDto.cs",
+              "RelativeDocumentMoniker": "TP4\\Dtos\\MovieDetailsDto.cs",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\Dtos\\MovieDetailsDto.cs",
+              "RelativeToolTip": "TP4\\Dtos\\MovieDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:54:45.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieDto.cs",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\Dtos\\MovieDto.cs",
+              "RelativeDocumentMoniker": "TP4\\Dtos\\MovieDto.cs",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\Dtos\\MovieDto.cs",
+              "RelativeToolTip": "TP4\\Dtos\\MovieDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:52:56.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "TP4\\Controllers\\GenresController.cs",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "TP4\\Controllers\\GenresController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:44:20.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenreDto.cs",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\Dtos\\GenreDto.cs",
+              "RelativeDocumentMoniker": "TP4\\Dtos\\GenreDto.cs",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\Dtos\\GenreDto.cs",
+              "RelativeToolTip": "TP4\\Dtos\\GenreDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:41:40.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MoviesService.cs",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\Services\\MoviesService.cs",
+              "RelativeDocumentMoniker": "TP4\\Services\\MoviesService.cs",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\Services\\MoviesService.cs",
+              "RelativeToolTip": "TP4\\Services\\MoviesService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:35:44.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMoviesService.cs",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\Services\\IMoviesService.cs",
+              "RelativeDocumentMoniker": "TP4\\Services\\IMoviesService.cs",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\Services\\IMoviesService.cs",
+              "RelativeToolTip": "TP4\\Services\\IMoviesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:34:16.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IGenresService.cs",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\Services\\IGenresService.cs",
+              "RelativeDocumentMoniker": "TP4\\Services\\IGenresService.cs",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\Services\\IGenresService.cs",
+              "RelativeToolTip": "TP4\\Services\\IGenresService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:33:51.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241022213232_DBCreate.cs",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\Migrations\\20241022213232_DBCreate.cs",
+              "RelativeDocumentMoniker": "TP4\\Migrations\\20241022213232_DBCreate.cs",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\Migrations\\20241022213232_DBCreate.cs",
+              "RelativeToolTip": "TP4\\Migrations\\20241022213232_DBCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:32:32.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\Model\\Genre.cs",
+              "RelativeDocumentMoniker": "TP4\\Model\\Genre.cs",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\Model\\Genre.cs",
+              "RelativeToolTip": "TP4\\Model\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:22:24.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\appsettings.json",
+              "RelativeDocumentMoniker": "TP4\\appsettings.json",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\appsettings.json",
+              "RelativeToolTip": "TP4\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T21:29:17.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\Model\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TP4\\Model\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\Model\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TP4\\Model\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:27:07.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\Model\\Movie.cs",
+              "RelativeDocumentMoniker": "TP4\\Model\\Movie.cs",
+              "ToolTip": "C:\\Users\\jawad\\source\\repos\\TP4\\TP4\\Model\\Movie.cs",
+              "RelativeToolTip": "TP4\\Model\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:23:15.65Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

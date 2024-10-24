@@ -1,0 +1,6 @@
+@TP4_HostAddress = http://localhost:5107
+
+GET {{TP4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
